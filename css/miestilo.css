@@ -1,0 +1,15 @@
+body{
+    background: url(../imagenes/fondo1.png);
+}
+label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#fondito{
+    background: #ffffff;
+}
+#listarr{
+    background: #ffffff;
+}
+footer{
+    background: #ffffff;
+}
